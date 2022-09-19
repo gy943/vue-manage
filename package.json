@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cookie": "^0.5.0",
+    "element-ui": "^2.15.9",
+    "mockjs": "^1.1.0",
+    "uuid": "^9.0.0",
+    "vue-router": "^3.5.3"
+  },
+  "devDependencies": {
+    "babel-plugin-component": "^1.1.1"
+  }
+}
